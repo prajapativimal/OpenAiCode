@@ -6,6 +6,7 @@ public class new1
 	{
 		System.out.println("hello ");
 		System.out.println("demo ");
+		System.out.println("demo1 ");
 	}
 
 }
